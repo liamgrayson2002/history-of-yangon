@@ -1,0 +1,81 @@
+/* CSS Document */
+#main{ width:1024px;
+       height:auto;
+	   margin:0 auto;
+	   border:solid 1px #FFFFFF;}
+	   
+#header{ background-image: url(../Images/header.jpg);
+         width:1024px;
+		 height:250px;}
+		 
+#menu{ width:1024px;
+       height:60px;
+	   background-color:#00FF;
+	   float:left;}
+	   
+#menu ul{ list-style:none;}
+
+#menu ul li{ width:160px;
+             float:left;
+			 padding-right:30px;
+			 margin:0 auto;}
+			
+#menu ul li a{ color: #F0F;
+               font-variant:small-caps;
+			   font-family:Verdana, Geneva, sans-serif;
+			   font-size: 24px;
+			   font-weight:bold;
+			   text-decoration:none}				   		 	   
+
+#menu ul li a:hover{ color: #F00;}
+
+#content{ width:1130px;
+          margin:0 auto;}
+		  
+#title{ font-size: 36px;
+       color: #F0F;
+	   text-align:center;
+	   margin-bottom: 15px;}		  
+	   
+.imgleft{ width:200px;
+          height:170px;
+		  float:left;
+		  margin-right:5px;}	   
+		  
+.imgright{ width:200px;
+           height:170px;
+		   float:right;
+		   margin-left:5px;}
+		   
+.imglarge{ width:500px;
+           height:500px;
+		   border:inset 5px #063;
+		   margin-left:70px;}
+		   
+.imglist{ float:left;
+          margin-right:35px;}
+		  
+.card1{ font-family:Verdana, Geneva, sans-serif;
+        line-height:25px;
+		text-align:justify;
+		margin-bottom:30px;}
+		
+.imgprice{ width:200px;
+           height:70px;
+		   float:left;
+		   margin-right:35px;}
+		   
+#t1 a{ padding-left:1000px;
+       margin-bottom:50px;
+	   height:50px;
+	   font-family:Verdana, Geneva, sans-serif;}
+	   
+#footer{ height:35px;
+         background-color: #00F;
+		 color: #F0F;
+		 text-align:center;
+		 font-weight: bolder;
+		 font-family:Verdana, Geneva, sans-serif;
+		 padding-top:10px;
+		 margin-top: 35px;}	   		   				  		   		   		  
+	
